@@ -1,0 +1,14 @@
+body{
+
+    background-color: rgb(223, 208, 238);
+    
+}
+h2{
+   color: blue;
+   p{
+    color: brown;
+   }
+}
+p{
+    color: brown;
+}
